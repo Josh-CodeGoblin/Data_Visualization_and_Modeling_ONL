@@ -107,3 +107,8 @@ ask your instructor and include:
 ## Publish your dashboards
 
 Use the [dashboard deployment guide](dashboards/README.md) to host the class bike/scooter demo and your personal dashboard as separate Render services from this same repository. The `dashboards/` folder includes both deployment apps and their package lists.
+
+
+## Reviewed student lab: Week 3
+
+See the [quantitative relationships lab and running instructions](week03/lab/README.md) for the completed notebook, nine saved plots, data attribution, and reproducibility details. The notebook includes an AI-use reflection and an honest note that the original Investigation 2 prediction was not recorded.
